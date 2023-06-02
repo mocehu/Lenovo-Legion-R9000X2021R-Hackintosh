@@ -43,6 +43,8 @@
 
 如果有不支持的固态，请在安装MacOS前在Windows的设备管理器中查看设备路径，如图所示，如果你的刚好和我一样，那么可用直接用我的文件无需任何更改，如果不一样，那就需要拆掉硬盘，安装MacOS后在MacOS中修改SSDT-SSDHIDE-DISABLE.aml文件，或者把你的路径发给一个有MacOS的人帮你修改后再使用，修改的工具在上面给出的参考链接中有提供，最好提前下载好放到u盘等位置后直接安装。
 
+![](https://github.com/mocehu/Lenovo-Legion-R9000X2021R-Hackintosh/blob/main/image/HideSSD.png?raw=true)
+
 ## 截图
 
 ![](https://raw.githubusercontent.com/mocehu/Lenovo-Legion-R9000X2021R-Hackintosh/main/image/bigsur-2.png)
