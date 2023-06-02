@@ -33,8 +33,11 @@
 ### 小白从零开始参考资料
 
 国光黑苹果教程👍👍👍: https://apple.sqlsec.com/
+
 隔壁机型的1: https://github.com/zabdottler/Lenovo-Yoga-16S-hackintosh
+
 隔壁机型的2: https://shenhai.cool/d/428
+
 硬盘屏蔽参考: https://heipg.cn/tutorial/block-nv-dgpu-or-pm981.html#%E4%BF%AE%E6%94%B9%E9%A2%84%E7%BC%96%E8%AF%91%E7%9A%84-SSDT
 
 ### 硬盘屏蔽说明
